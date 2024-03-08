@@ -1,4 +1,4 @@
-The awesome squid proxy docker container service
+The awesome HA squid proxy docker container service
 ================================================
 
 Deployment Setup in Progress!
